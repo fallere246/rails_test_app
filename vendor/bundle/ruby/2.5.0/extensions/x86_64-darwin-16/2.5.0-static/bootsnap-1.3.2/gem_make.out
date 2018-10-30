@@ -1,0 +1,15 @@
+current directory: /Users/nishimura_s/Documents/01_Private/02_Project/04_test/rails_test_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/nishimura_s/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181030-33741-1qxz2c3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nishimura_s/Documents/01_Private/02_Project/04_test/rails_test_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/nishimura_s/Documents/01_Private/02_Project/04_test/rails_test_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/nishimura_s/Documents/01_Private/02_Project/04_test/rails_test_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20181030-33741-1ssvu8k/bootsnap
