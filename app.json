@@ -1,7 +1,7 @@
 {
   "name": "rails_test_app",
   "scripts": {
-    "postdeploy": "bundle exec rake db:schema:load db:seed"
+    "postdeploy": "bundle exec rake db:migrate"
   },
   "env": {
     "LANG": {
